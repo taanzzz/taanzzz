@@ -67,7 +67,7 @@ Hello!I’m **Porosh Islam Tarek**,a passionate Full-Stack Developer based in **
 <tr>
 <td>
   <!-- GitHub Streak Stats -->
-  <img width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=taanzzz&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+  <img width="460" src="https://streak-stats.demolab.com/?user=taanzzz&theme=radical&hide_border=false" />
 </td>
 <td>
   <!-- GitHub Theme Stats -->
