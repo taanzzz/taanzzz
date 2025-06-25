@@ -13,6 +13,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Web+Developer;Clean+Code+Lover;Aesthetic+UI+Builder+%F0%9F%92%A8;Firebase+%7C+MongoDB+%7C+Tailwind+%7C+React" alt="Typing SVG" />
 </p>
 
+## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="35"> About Me
+
+Hello!I’m **Porosh Islam Tarek**,a passionate Full-Stack Developer based in **Bangladesh**.I love building scalable web apps that are both **technically sound** and **visually stunning**.My tech stack revolves around **MERN** and I’m constantly pushing myself to learn more every day.
+
+- 🌐 Currently working on a **hotel booking platform**
+- 🔍 Exploring **Next.js**, **JWT Auth**, **Express.js** and **MongoDB Atlas**
+- 🎨 Improving UI/UX with **Framer Motion**, **AOS**, **React-lottie** and **React Tooltip** 
+- 🛠️ Polishing a productivity-focused **plant care tracker** app
+
+---
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
 - 🌱 **Currently Working On:** [Visual Sort](https://my-assignment-project-2a864.web.app/)  
@@ -35,17 +46,6 @@
 <h3 align="left">Languages and Tools: 🚀</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,react,express,c,cpp,django,arduino,mysql,mongodb,materialui,git,githubactions,md,nodejs,sass,vite,threejs,gcp,bootstrap,tailwind,postman&perline=8)](https://github.com/taaaanzzzzz)
-
----
-
-## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="35"> About Me
-
-Hello!I’m **Porosh Islam Tarek**,a passionate Full-Stack Developer based in **Bangladesh**.I love building scalable web apps that are both **technically sound** and **visually stunning**.My tech stack revolves around **MERN** and I’m constantly pushing myself to learn more every day.
-
-- 🌐 Currently working on a **hotel booking platform**
-- 🔍 Exploring **Next.js**, **JWT Auth**, **Express.js** and **MongoDB Atlas**
-- 🎨 Improving UI/UX with **Framer Motion**, **AOS**, **React-lottie** and **React Tooltip** 
-- 🛠️ Polishing a productivity-focused **plant care tracker** app
 
 ---
 
