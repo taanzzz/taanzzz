@@ -3,10 +3,8 @@
   <img src="./cover.jpg" alt="MERN Stack Banner" width="100%" />
 </p>
 
-<!-- Typing Animation: Name -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Porosh+Islam+Tarek" alt="Typing SVG" />
-</p>
+<!--Name -->
+<h1 align="center">👋 Hi,I'm Porosh Islam Tarek</h1> 
 
 <h3 align="center">Full-Stack Web Developer | Clean Code Advocate | Aesthetic UI Craftsman</h3>
 
