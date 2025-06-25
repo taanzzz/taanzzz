@@ -1,3 +1,7 @@
+from pathlib import Path
+
+# Creating the final polished README.md content
+readme_content = """
 <h1 align="center">👋 Hi, I'm Porosh Islam Tarek</h1>
 
 <p align="center">
@@ -8,7 +12,7 @@
 
 ### 🧠 Who Am I?
 > A passionate **Full-Stack Developer** who blends **clean code**, **modern design**, and **scalable backend** to build delightful user experiences.  
-> I turn ideas into interactive, functional, and responsive applications — powered by the MERN stack & Firebase.  
+> I turn ideas into interactive, functional, and responsive applications — powered by the **MERN stack & Firebase**.  
 > Currently exploring 🔐 Authentication flows, 🎞️ UI Animations, and 🌍 scalable backend architecture.
 
 ---
@@ -42,9 +46,4 @@ const porosh = {
   skills: ["React", "Firebase", "MongoDB", "Node.js", "TailwindCSS"],
   loves: ["✨ Aesthetic UI", "🎯 Scalable systems", "🎞️ Smooth Animations"],
   code: () => "const result = cleanCode + realWorldImpact;",
-};```
-
----
-
-🌐 Let’s Connect
-<p align="center"> <a href="https://linkedin.com/in/porosh-islam-tarek-567836367" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://joyous-net.surge.sh" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+};
