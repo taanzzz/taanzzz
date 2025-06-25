@@ -1,6 +1,6 @@
 <!-- Banner Text -->
 <p align="center">
-  <img src="./banner.jpg" alt="MERN Stack Banner" width="100%" />
+  <img src="./personalbg.png" alt="MERN Stack Banner" width="100%" />
 </p>
 
 <!--Name -->
