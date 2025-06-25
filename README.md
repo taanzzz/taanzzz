@@ -4,7 +4,10 @@
 </p>
 
 
-<h1 align="center">👋 Hi, I'm Porosh Islam Tarek</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&width=435&lines=👋+Hi%2C+I'm+Porosh+Islam+Tarek" alt="Typing SVG" />
+</p>
+
 <h3 align="center">Full-Stack Web Developer | Clean Code Advocate | Aesthetic UI Craftsman</h3>
 
 <p align="center">
