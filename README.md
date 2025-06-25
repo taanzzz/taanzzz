@@ -1,4 +1,5 @@
 <!-- Banner Text -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </p>
@@ -103,4 +104,4 @@ Hello!I’m **Porosh Islam Tarek**,a passionate Full-Stack Developer based in **
 
 <!-- Optional decorative SVG -->
   <img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" />
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
