@@ -14,13 +14,13 @@
 
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
-- 🌱 **Currently Working On:** [Visual Sort](https://visual-sort-pink.vercel.app/)<br>
-- 💬 Ask Me About: JAVA, SQL, Web Development, Anime, Designing, or anything. <br>
-- 📫 Reach Me At: [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com) <br>
-- ⚡ About Me: **A Kuudere with a touch of intelligence.** <br>
-- 💎 Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty <br>
-- 🌎 I Know English, Hindi, Marathi | Telugu, Japanese, and Turkish (familiar). <br>
-- 📍 **Location:** India <br>
+- 🌱 **Currently Working On:** [Visual Sort](https://my-assignment-project-2a864.web.app/)  
+- 💬 **Ask Me About:** **JavaScript**, **Firebase**, **MERN Stack**, **Designing Animation or anything tech-related**  
+- 📫 **Reach Me At:** [poroshislamtarek123@gmail.com](mailto:poroshislamtarek123@gmail.com)  
+- ⚡ **About Me:** **A calm mind with sharp logic — balancing creativity & critical thinking.**  
+- 💎 **Smart Work** + **Fast Learning** + **Adaptability** + **Deep Focus** + **Honesty.** 
+- 🌍 **I Speak:** **Bangla**, **English** | Familiar with **Japanese**, **Hindi** and **Urdu**.  
+- 📍 **Location:** **Bangladesh** <br>
 ---
 
 ## 👨‍💻 About Me
