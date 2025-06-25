@@ -23,7 +23,7 @@
 - 📍 **Location:** **Bangladesh** <br>
 ---
 
-## 👨‍💻 About Me
+## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="35"> About Me
 
 Hello!I’m **Porosh Islam Tarek**,a passionate Full-Stack Developer based in **Bangladesh**.I love building scalable web apps that are both **technically sound** and **visually stunning**.My tech stack revolves around **MERN** and I’m constantly pushing myself to learn more every day.
 
