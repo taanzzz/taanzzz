@@ -16,11 +16,11 @@
 
 ## 👨‍💻 About Me
 
-Hello! I’m **Porosh Islam Tarek**, a passionate Full-Stack Developer based in **Bangladesh**. I love building scalable web apps that are both **technically sound** and **visually stunning**. My tech stack revolves around **MERN**, and I’m constantly pushing myself to learn more every day.
+Hello!I’m **Porosh Islam Tarek**,a passionate Full-Stack Developer based in **Bangladesh**.I love building scalable web apps that are both **technically sound** and **visually stunning**.My tech stack revolves around **MERN** and I’m constantly pushing myself to learn more every day.
 
 - 🌐 Currently working on a **hotel booking platform**
-- 🔍 Exploring **Next.js**, **JWT Auth**, and **MongoDB Atlas**
-- 🎨 Improving UI/UX with **Framer Motion**, **AOS**, and **React Tooltip**
+- 🔍 Exploring **Next.js**, **JWT Auth**, **Express.js** and **MongoDB Atlas**
+- 🎨 Improving UI/UX with **Framer Motion**, **AOS**, **React-lottie** and **React Tooltip** 
 - 🛠️ Polishing a productivity-focused **plant care tracker** app
 
 ---
