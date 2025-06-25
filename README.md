@@ -26,6 +26,18 @@
 
 ---
 
+### 📫 Let's Connect!
+<p>
+  <a href="https://linkedin.com/in/porosh-islam-tarek-567836367" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://joyous-net.surge.sh" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub at a Glance
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taanzzz&show_icons=true&theme=tokyonight&border_radius=10&hide_title=true" height="160" />
