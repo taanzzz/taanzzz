@@ -41,6 +41,6 @@
 
 ---
 
-### 📝 About Me (Bangla)
+### 📝 About Me
 > I’m Porosh Islam Tarek, a Full-Stack Web Developer. I love building web applications that solve real-life problems. I work with technologies like Firebase, MongoDB, TailwindCSS, and React — learning and building with them every day.
 
