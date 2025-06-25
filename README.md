@@ -1,7 +1,3 @@
-from pathlib import Path
-
-# Creating the final polished README.md content
-readme_content = """
 <h1 align="center">👋 Hi, I'm Porosh Islam Tarek</h1>
 
 <p align="center">
