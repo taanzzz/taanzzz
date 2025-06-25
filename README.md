@@ -43,5 +43,8 @@ const porosh = {
   loves: ["✨ Aesthetic UI", "🎯 Scalable systems", "🎞️ Smooth Animations"],
   code: () => "const result = cleanCode + realWorldImpact;",
 };```
+
+---
+
 🌐 Let’s Connect
 <p align="center"> <a href="https://linkedin.com/in/porosh-islam-tarek-567836367" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://joyous-net.surge.sh" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
