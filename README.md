@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Web+Developer;Clean+Code+Lover;Aesthetic+UI+Builder+%F0%9F%92%A8;Firebase+%7C+MongoDB+%7C+Tailwind+%7C+React" alt="Typing SVG" />
 </p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
 - 🌱 **Currently Working On:** [Visual Sort](https://my-assignment-project-2a864.web.app/)  
 - 💬 **Ask Me About:** **JavaScript**, **Firebase**, **MERN Stack**, **Designing Animation or anything tech-related**  
