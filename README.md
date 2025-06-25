@@ -22,6 +22,20 @@
 - 🌍 **I Speak:** **Bangla**, **English** | Familiar with **Japanese**, **Hindi** and **Urdu**.  
 - 📍 **Location:** **Bangladesh** <br>
 ---
+<h3 align="left">Connect with me: <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="50"></h3>
+<p align="left">
+<a href="https://x.com/UjjwalSaini0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalsaini07" height="30" width="40" /></a>
+<a href="https://instagram.com/ujjwalsaini07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujjwalsaini07" height="30" width="40" /> </a>
+<a href="https://www.linkedin.com/in/ujjwalsaini07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-saini-220960256" height="30" width="40" /></a>
+<a href="mailto:ujjwalsaini0007+github@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/> </a>
+</p>
+
+<h3 align="left">Languages and Tools: <img src="/Assets_Used/Gifs/HeadGifs/rocketemoji.gif" width="25px"> </h3>
+
+<!-- Take a refernce from this : https://github.com/tandpfun/skill-icons#readme -->
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,react,express,c,cpp,django,arduino,mysql,mongodb,materialui,git,githubactions,md,nodejs,sass,vite,threejs,gcp,bootstrap,tailwind,postman&perline=8)](https://github.com/UjjwalSaini07)
+
+---
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="35"> About Me
 
