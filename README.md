@@ -1,5 +1,5 @@
 <!-- Banner Text -->
-<h1 align="center">🚀 Porosh Islam Tarek</h1>
+<h1 align="center">👋 Hi, I'm Porosh Islam Tarek</h1>
 <h3 align="center">Full-Stack Web Developer | Clean Code Advocate | Aesthetic UI Craftsman</h3>
 
 <p align="center">
