@@ -53,29 +53,6 @@ Hello!I’m **Porosh Islam Tarek**,a passionate Full-Stack Developer based in **
 
 ---
 
-## 🌐 Let's Connect!
-
-<p align="left">
-  <a href="https://linkedin.com/in/porosh-islam-tarek-567836367" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://joyous-net.surge.sh" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://x.com/taaaanzzzzz" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" alt="X (Twitter)"/>
-  </a>
-  <a href="https://www.instagram.com/taaannnnzzzzz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/poroshislamtarek" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
-
-
----
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <p align="center">
