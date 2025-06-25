@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Web Developer | Clean Code Advocate | Aesthetic UI Craftsman</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=MERN%20Stack%20%7C%20Firebase%20%7C%20Tailwind%20Lover;Turning%20ideas%20into%20clean%2C%20functional%20products;Always%20learning%20%7C%20Always%20building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Web+Developer;Clean+Code+Lover;Aesthetic+UI+Builder+%F0%9F%92%A8;Firebase+%7C+MongoDB+%7C+Tailwind+%7C+React" alt="Typing SVG" />
 </p>
 
 ---
