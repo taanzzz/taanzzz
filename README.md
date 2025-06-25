@@ -101,19 +101,6 @@ Hello!I’m **Porosh Islam Tarek**,a passionate Full-Stack Developer based in **
 
 ---
 
-```js [~/projects/porosh.js]
-/* 💻 Developer Card - Porosh Islam Tarek */
-
-const porosh = {
-  name: "Porosh Islam Tarek",
-  title: "Full-Stack Web Developer",
-  focus: ["MERN", "Firebase", "Clean UI", "Scalable Backend"],
-  currently: [
-    "Exploring Next.js",
-    "Building Hotel Booking App",
-    "Improving Dev Workflow"
-  ],
-  passion: "Turning code into beautiful, usable products",
-  motto: () => "Work hard. Build smart. Stay kind. 💡",
-};
+<!-- Optional decorative SVG -->
+  <img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" />
 
