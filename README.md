@@ -1,8 +1,9 @@
 <!-- Banner Text -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+  <img src="./perfect.png" alt="Porosh" />
 </p>
+
 
 <!--Name -->
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Porosh Islam Tarek</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
