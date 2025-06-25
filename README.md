@@ -1,4 +1,8 @@
 <!-- Banner Text -->
+<p align="center">
+  <img src="https://github.com/taanzzz/taanzzz/assets/your-image-path/cover.jpg" alt="MERN Stack Banner" width="100%" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Porosh Islam Tarek</h1>
 <h3 align="center">Full-Stack Web Developer | Clean Code Advocate | Aesthetic UI Craftsman</h3>
 
