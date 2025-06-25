@@ -4,7 +4,7 @@
 </p>
 
 <!--Name -->
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Porosh Islam Tarek</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Porosh Islam Tarek</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
 <h3 align="center">Full-Stack Web Developer | Clean Code Advocate | Aesthetic UI Craftsman</h3>
 
