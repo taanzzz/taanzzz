@@ -8,7 +8,7 @@
 <!--Name -->
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Porosh Islam Tarek</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
-<h3 align="center">Full-Stack Web Developer | Clean Code Advocate | Aesthetic UI Craftsman</h3>
+<h3 align="center"> Developer | Clean Code Advocate | Aesthetic UI Craftsman</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Web+Developer;Clean+Code+Lover;Aesthetic+UI+Builder+%F0%9F%92%A8;Firebase+%7C+MongoDB+%7C+Tailwind+%7C+React" alt="Typing SVG" />
