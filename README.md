@@ -23,12 +23,10 @@
 
 I'm a passionate full-stack engineer based in **Bangladesh**, focused on building scalable, performant, and visually refined web applications. I believe in writing maintainable code, designing intuitive interfaces, and continuously expanding my technical depth.
 
-- 🌐 Currently building a **hotel booking platform**
-- 🔍 Exploring **Next.js**, **JWT authentication**, **Express.js**, and **MongoDB Atlas**
+- 🌐 Currently building a **Mind Over Myth Platform**
+- 🔍 Exploring modern authentication patterns and cloud-based data solutions
 - 🎨 Enhancing user experience with subtle animations and responsive interactions
-- 🌱 Polishing a **plant care tracker** app for productivity and mindfulness
 
----
 
 ## 📬 Get in Touch
 
