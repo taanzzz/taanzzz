@@ -16,24 +16,22 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="35"> About Me
 
-Hello!I’m **Porosh Islam Tarek**,a passionate Full-Stack Developer based in **Bangladesh**.I love building scalable web apps that are both **technically sound** and **visually stunning**.My tech stack revolves around **MERN** and I’m constantly pushing myself to learn more every day.
+I'm a passionate full-stack engineer based in **Bangladesh**, focused on building scalable, performant, and visually refined web applications. I believe in writing maintainable code, designing intuitive interfaces, and continuously expanding my technical depth.
 
-- 🌐 Currently working on a **hotel booking platform**
-- 🔍 Exploring **Next.js**, **JWT Auth**, **Express.js** and **MongoDB Atlas**
-- 🎨 Improving UI/UX with **Framer Motion**, **AOS**, **React-lottie** and **React Tooltip** 
-- 🛠️ Polishing a productivity-focused **plant care tracker** app
+- 🌐 Currently building a **Mind Over Myth Platform**
+- 🔍 Exploring modern authentication patterns and cloud-based data solutions
+- 🎨 Enhancing user experience with subtle animations and responsive interactions
 
----
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkwazNsYTN6MnM1dTh1ZGRwazFmbW1hc2NlcWIzZ3libWNzc3N6dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="300">
 
 - 🌱 **Currently Working On:** [Visual Sort](https://my-assignment-project-2a864.web.app/)  
-- 💬 **Ask Me About:** **JavaScript**, **Firebase**, **MERN Stack**, **Designing Animation or anything tech-related**  
+- 💬 **Ask Me About:** Clean architecture, interactive UIs, or anything at the intersection of logic and design  
 - 📫 **Reach Me At:** [poroshislamtarek123@gmail.com](mailto:poroshislamtarek123@gmail.com)  
-- ⚡ **About Me:** **A calm mind with sharp logic — balancing creativity & critical thinking.**  
-- 💎 **Smart Work** + **Fast Learning** + **Adaptability** + **Deep Focus** + **Honesty.** 
-- 🌍 **I Speak:** **Bangla**, **English** | Familiar with **Japanese**, **Hindi** and **Urdu**.  
-- 📍 **Location:** **Bangladesh** <br>
+- ⚡ **About Me:** A calm mind with sharp logic — balancing creativity and critical thinking  
+- 💎 Core Values: Smart work, fast learning, adaptability, deep focus, and honesty  
+- 🌍 **I Speak:** Bangla, English | Familiar with Japanese, Hindi, and Urdu  
+- 📍 **Based in:** Bangladesh
 ---
 <h3 align="left">Connect with me: <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="50"></h3>
 <p align="left">
