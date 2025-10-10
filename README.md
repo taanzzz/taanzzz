@@ -25,7 +25,7 @@ I'm a passionate full-stack engineer based in **Bangladesh**, focused on buildin
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkwazNsYTN6MnM1dTh1ZGRwazFmbW1hc2NlcWIzZ3libWNzc3N6dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="300">
 
-- 🌱 **Currently Working On:** [Visual Sort](https://mindvsmyth.web.app/)  
+-  ⚒ **Currently Working On:** [Visual Sort](https://mindvsmyth.web.app/)  
 - 💬 **Ask Me About:** Clean architecture, interactive UIs, or anything at the intersection of logic and design  
 - 📫 **Reach Me At:** [poroshislamtarek123@gmail.com](mailto:poroshislamtarek123@gmail.com)  
 - ⚡ **About Me:** A calm mind with sharp logic — balancing creativity and critical thinking  
