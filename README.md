@@ -11,7 +11,7 @@
 <h3 align="center"> Developer | Clean Code Advocate | Aesthetic UI Craftsman</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Web+Developer;Clean+Code+Lover;Aesthetic+UI+Builder+%F0%9F%92%A8;Firebase+%7C+MongoDB+%7C+Tailwind+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Developer;Clean+Code+Lover;Aesthetic+UI+Builder+%F0%9F%92%A8;Firebase+%7C+MongoDB+%7C+Tailwind+%7C+React" alt="Typing SVG" />
 </p>
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="35"> About Me
@@ -25,7 +25,7 @@ I'm a passionate full-stack engineer based in **Bangladesh**, focused on buildin
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkwazNsYTN6MnM1dTh1ZGRwazFmbW1hc2NlcWIzZ3libWNzc3N6dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="300">
 
-- 🌱 **Currently Working On:** [Visual Sort](https://my-assignment-project-2a864.web.app/)  
+- 🌱 **Currently Working On:** [Visual Sort](https://mindvsmyth.web.app/)  
 - 💬 **Ask Me About:** Clean architecture, interactive UIs, or anything at the intersection of logic and design  
 - 📫 **Reach Me At:** [poroshislamtarek123@gmail.com](mailto:poroshislamtarek123@gmail.com)  
 - ⚡ **About Me:** A calm mind with sharp logic — balancing creativity and critical thinking  
