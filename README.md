@@ -25,8 +25,7 @@ Hello!I’m **Porosh Islam Tarek**,a passionate Full-Stack Developer based in **
 
 ---
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkwazNsYTN6MnM1dTh1ZGRwazFmbW1hc2NlcWIzZ3libWNzc3N6dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif
-" width="300">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkwazNsYTN6MnM1dTh1ZGRwazFmbW1hc2NlcWIzZ3libWNzc3N6dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="300">
 
 - 🌱 **Currently Working On:** [Visual Sort](https://my-assignment-project-2a864.web.app/)  
 - 💬 **Ask Me About:** **JavaScript**, **Firebase**, **MERN Stack**, **Designing Animation or anything tech-related**  
