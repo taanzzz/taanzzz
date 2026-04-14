@@ -33,13 +33,13 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkwazNsYTN6MnM1dTh1ZGRwazFmbW1hc2NlcWIzZ3libWNzc3N6dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="280" />
 
-I'm a **Software Developer** from **Bangladesh** — and honestly, I don't like putting myself in a single box. I work across **mobile, web, backend, tools, libraries, and whatever the problem demands**. If there's a system to build or a complex thing to untangle, I'm interested.
+I'm a **Software Developer** from **Bangladesh** and honestly,I don't like putting myself in a single box. I work across **mobile,web,backend,tools,libraries and whatever the problem demands**. If there's a system to build or a complex thing to untangle,I'm interested.
 
-I have a thing for **math and logic** — not because it sounds cool, but because I genuinely enjoy sitting with a hard problem, breaking it into a clean sequence, and solving it layer by layer. That's probably why I gravitate toward systems that have real structure underneath.
+I have a thing for **math and logic** not because it sounds cool but because I genuinely enjoy sitting with a hard problem,breaking it into a clean sequence and solving it layer by layer. That's probably why I gravitate toward systems that have real structure underneath.
 
-Over time I've shipped projects across a lot of domains — **hotel management, government platforms, academic systems, country map tools, ebook apps, trade apps, tracking systems** — and helped actual clients get their businesses running from scratch. That ground-level experience taught me more than any tutorial ever could.
+Over time I've shipped projects across a lot of domains **hotel management,government platforms,academic systems,country map tools,ebook apps,trade apps,tracking systems** and helped actual clients get their businesses running from scratch. That ground-level experience taught me more than any tutorial ever could.
 
-Right now I work with everything from **Flutter & Dart** on mobile to **React, Next.js, Node.js** on the web — and I'm comfortable going deep into **Python, Django, databases, cloud, or DevOps** when the project needs it. I care a lot about **clean architecture, readable code, and solutions that actually scale**.
+Right now I work with everything from **Flutter & Dart** on mobile to **React, Next.js, Node.js** on the web and I'm comfortable going deep into **Python, Django, databases, cloud or DevOps** when the project needs it. I care a lot about **clean architecture,readable code and solutions that actually scale**.
 
 I'm not chasing stacks. I'm chasing well-built things.
 
